@@ -1,0 +1,18 @@
+﻿body {
+    background-image: url(https://images.unsplash.com/photo-1682687218982-6c508299e107?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+
+#time {
+    visibility: hidden;
+}
+
+
+#title:hover {
+    cursor: pointer;
+}
+
+#query {
+    width: 40%;
+    height: 40%;
+    margin-bottom: 10px;
+}
